@@ -120,6 +120,25 @@
 }
 
 /* ================= Responsive ================= */
+
+/* Large Desktop <= 1440px */
+@media (max-width: 1440px) {
+  .pricingPage {
+    padding: 35px 40px;
+  }
+}
+
+/* Laptop <= 1280px */
+@media (max-width: 1280px) {
+  .pricingPage {
+    padding: 35px 30px;
+  }
+
+  .pricingCard {
+    width: 320px;
+  }
+}
+
 @media (max-width: 1024px) {
   .pricingCards {
     flex-direction: column;

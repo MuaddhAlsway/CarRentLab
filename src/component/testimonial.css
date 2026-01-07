@@ -58,6 +58,24 @@
 
 /* Responsive */
 
+/* Large Desktop <= 1440px */
+@media (max-width: 1440px) {
+  .testimonialSection {
+    padding: 70px 60px;
+  }
+}
+
+/* Laptop <= 1280px */
+@media (max-width: 1280px) {
+  .testimonialSection {
+    padding: 65px 50px;
+  }
+
+  .testimonialContainer {
+    gap: 35px;
+  }
+}
+
 /* Laptop / small screens <= 1024px */
 @media (max-width: 1024px) {
   .testimonialContainer {

@@ -71,6 +71,21 @@
 }
 
 /* Responsive */
+
+/* Large Desktop <= 1440px */
+@media (max-width: 1440px) {
+  .footerContainer {
+    padding: 45px 60px;
+  }
+}
+
+/* Laptop <= 1280px */
+@media (max-width: 1280px) {
+  .footerContainer {
+    padding: 40px 50px;
+  }
+}
+
 @media (max-width: 1024px) {
   .footerContainer {
     padding: 40px 50px;

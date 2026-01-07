@@ -63,6 +63,22 @@
   margin: auto;
 }
 
+/* ================= Large Desktop <= 1440px ================= */
+@media (max-width: 1440px) {
+  .cardItemServiesWrapper {
+    padding: 70px 60px;
+  }
+}
+
+/* ================= Laptop <= 1280px ================= */
+@media (max-width: 1280px) {
+  .cardItemServiesWrapper {
+    grid-template-columns: repeat(3, 1fr);
+    padding: 60px 50px;
+    gap: 20px;
+  }
+}
+
 /* ================= ≤1024px (Small laptops / iPad landscape) ================= */
 @media (max-width: 1024px) {
   .cardItemServiesWrapper {

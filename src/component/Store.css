@@ -114,6 +114,17 @@
     }
 }
 
+/* Laptop <= 1280px */
+@media (max-width: 1280px) {
+    .store {
+        padding: 50px 50px;
+    }
+    .cardCards {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 25px;
+    }
+}
+
 /* Laptop / small screens <= 1024px */
 @media (max-width: 1024px) {
     .cardCards {

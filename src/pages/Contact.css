@@ -102,6 +102,25 @@
 }
 
 /* ================= Responsive ================= */
+
+/* Large Desktop <= 1440px */
+@media (max-width: 1440px) {
+  .contactPage {
+    padding: 35px 40px;
+  }
+}
+
+/* Laptop <= 1280px */
+@media (max-width: 1280px) {
+  .contactPage {
+    padding: 35px 30px;
+  }
+
+  .contactContent {
+    gap: 35px;
+  }
+}
+
 @media (max-width: 768px) {
   .contactContent {
     flex-direction: column;

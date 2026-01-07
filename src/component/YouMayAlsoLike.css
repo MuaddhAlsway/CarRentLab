@@ -3,6 +3,24 @@
   text-align: left;    
 }
 
+/* Large Desktop <= 1440px */
+@media (max-width: 1440px) {
+  .youMayAlsoLike {
+    padding: 50px 150px;
+  }
+}
+
+/* Laptop <= 1280px */
+@media (max-width: 1280px) {
+  .youMayAlsoLike {
+    padding: 45px 80px;
+  }
+
+  .cardCarItem {
+    width: calc(25% - 15px); /* 4 items per row */
+  }
+}
+
 .youMayAlsoLike .title h1 {
   font-size: 2rem;
   margin-bottom: 30px;

@@ -11,6 +11,20 @@
     flex-direction: column;
 }
 
+/* Large Desktop <= 1440px */
+@media (max-width: 1440px) {
+    .emailContainer {
+        padding: 50px 250px;
+    }
+}
+
+/* Laptop <= 1280px */
+@media (max-width: 1280px) {
+    .emailContainer {
+        padding: 50px 150px;
+    }
+}
+
 /* ===== ROW LAYOUT ===== */
 .inputSide {
     display: flex;

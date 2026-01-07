@@ -8,6 +8,20 @@
 .blogView{
     padding: 20px 380px;
 }
+
+/* Large Desktop <= 1440px */
+@media (max-width: 1440px) {
+  .blogView {
+    padding: 20px 200px;
+  }
+}
+
+/* Laptop <= 1280px */
+@media (max-width: 1280px) {
+  .blogView {
+    padding: 20px 100px;
+  }
+}
 /* ===== Title Section ===== */
 .title {
   display: flex;
@@ -108,6 +122,10 @@
 
 /* ===== Responsive Breakpoints ===== */
 @media (max-width: 1024px) {
+  .blogView {
+    padding: 20px 60px;
+  }
+
   .itemContianer {
     grid-template-columns: 1fr 1fr;
     gap: 18px;
