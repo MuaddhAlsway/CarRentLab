@@ -10,7 +10,22 @@ A modern, fully responsive car rental web application built from scratch with Re
 
 ## 🌐 Live Demo
 
-👉 [View Live Site](https://muaddhalsway.github.io/CarRentLab/)
+👉 **[View Live Site](https://muaddhalsway.github.io/CarRentLab/)**
+
+### 📄 All Pages
+
+| Page | Link |
+|------|------|
+| 🏡 Home | [Visit](https://muaddhalsway.github.io/CarRentLab/#/) |
+| 🗝️ Rent Cars | [Visit](https://muaddhalsway.github.io/CarRentLab/#/rents) |
+| 🚗 Car Details | [Visit](https://muaddhalsway.github.io/CarRentLab/#/rent/1) |
+| 👥 About Us | [Visit](https://muaddhalsway.github.io/CarRentLab/#/about) |
+| 👔 Services | [Visit](https://muaddhalsway.github.io/CarRentLab/#/services) |
+| 📝 Blog | [Visit](https://muaddhalsway.github.io/CarRentLab/#/blog) |
+| 🖋️ Blog Details | [Visit](https://muaddhalsway.github.io/CarRentLab/#/blog/6) |
+| ☎️ Contact | [Visit](https://muaddhalsway.github.io/CarRentLab/#/contact) |
+| 🔓 Login | [Visit](https://muaddhalsway.github.io/CarRentLab/#/Login) |
+| 🚪 Sign Up | [Visit](https://muaddhalsway.github.io/CarRentLab/#/signup) |
 
 ## ✨ Features
 
