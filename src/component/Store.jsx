@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './Store.css';
-import camery from '../assets/camery.jpg';
+import camery from '../assets/Camery.jpg';
 import BMW from '../assets/BMW.jpg';
 import Bmw1 from '../assets/Bmw.webp';
 import accent from '../assets/Accent.webp';
