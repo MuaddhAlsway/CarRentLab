@@ -1,5 +1,5 @@
 import React from 'react'
-import Aboutus from '../component/Aboutus'
+import Aboutus from '../component/aboutus'
 import TrustProffesional from '../component/TrushProfessionals'
 import Email from '../component/Email'
 import Footer from '../component/Footer'
