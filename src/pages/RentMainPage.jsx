@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import "./RentMainPage.css";
 
 // Sample car images
-import camery from '../assets/camery.jpg';
+import camery from '../assets/Camery.jpg';
 import BMW from '../assets/BMW.jpg';
 import Bmw1 from '../assets/Bmw.webp';
 import Ford from '../assets/Ford.webp';
